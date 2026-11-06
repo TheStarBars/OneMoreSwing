@@ -1,0 +1,700 @@
+{
+  "schema": 2,
+  "pack_title": "Low Poly Mine Pack",
+  "builder_version": "1.1-MINE-VALIDATED",
+  "catalog_document": "Items.docx",
+  "catalog_sha256": "d59e6bac841ef32c708bfdbb6cad759052c3dec8b9d1237fd045662d94fc2622",
+  "pack_name": "FREE_VERSION_30_MODELS",
+  "edition": "free",
+  "author": "dglopez",
+  "copyright": "Copyright (c) 2026 dglopez. All rights reserved.",
+  "created_utc": "2026-11-03T20:58:00+00:00",
+  "asset_count": 30,
+  "assets": [
+    "Mine Entrance Wooden Portal",
+    "Timber Support Frame",
+    "Straight Mine Rail",
+    "Mine Rail Curve 45 Degrees",
+    "Minecart",
+    "Wooden Mine Ladder",
+    "Timber Walkway Module",
+    "Mine Warning Sign",
+    "Mining Wall Lighting",
+    "Mining Pickaxe",
+    "Mining Shovel",
+    "Hand Lantern",
+    "Mining Helmet",
+    "Wheelbarrow",
+    "Iron Ore Rock",
+    "Iron Ore Chunk",
+    "Coal Seam Rock",
+    "Coal Chunk",
+    "Gold Ore Rock",
+    "Copper Ore Rock",
+    "Supply Mining Crate",
+    "Wooden Mining Barrel",
+    "Rope Coil",
+    "Timber Plank Stack",
+    "Small Cave Boulder",
+    "Large Cave Boulder",
+    "Stalagmite Cluster",
+    "Natural Rock Column",
+    "Rockfall Debris Pile",
+    "Spider web"
+  ],
+  "formats": [
+    "FBX",
+    "OBJ",
+    "GLB"
+  ],
+  "blend_source_files_included": false,
+  "files": [
+    {
+      "path": "AI_NOTICE.txt",
+      "sha256": "a5b60d9f806d6a4032460bb859a33b1851aa5e8f1aa10a1426959e2ea65888aa",
+      "bytes": 909
+    },
+    {
+      "path": "ASSET_LIST.txt",
+      "sha256": "6ab815920454c42360217cace4a00c08c913f14155c38801d3df1d748d38ddb3",
+      "bytes": 722
+    },
+    {
+      "path": "FBX/_LICENSE_NOTICE.txt",
+      "sha256": "302bdd7e041b3166373c87179e3e4f9baa6e37aed4ac33bb3b8edf49e45bdc0a",
+      "bytes": 484
+    },
+    {
+      "path": "FBX/Coal Chunk.fbx",
+      "sha256": "c47788131223201c20b430ff3c23d1bf4cb5c96fec53302215f93b22647e213a",
+      "bytes": 32812
+    },
+    {
+      "path": "FBX/Coal Seam Rock.fbx",
+      "sha256": "c7e400af232d0604468d9f8892c135a49fc31b8a67464efc15e677523f14a66b",
+      "bytes": 61436
+    },
+    {
+      "path": "FBX/Copper Ore Rock.fbx",
+      "sha256": "a3fa3261f8fed1f1cb6e2593f8e1d599650d9c228050d7d626960d6dabb6682c",
+      "bytes": 97484
+    },
+    {
+      "path": "FBX/Gold Ore Rock.fbx",
+      "sha256": "2e18c2f3acd977a340404bd995de59bc954e6478af1a854f5cc254bb92b4eb3d",
+      "bytes": 94892
+    },
+    {
+      "path": "FBX/Hand Lantern.fbx",
+      "sha256": "100e5c06e31aa079e364739ae01cb4e713f06fad2a9646acd45993ca76af7417",
+      "bytes": 46620
+    },
+    {
+      "path": "FBX/Iron Ore Chunk.fbx",
+      "sha256": "d17dc0d41c7c678907fffc46ba06a0fc27592d6703eaea91bb944adee92c8535",
+      "bytes": 23084
+    },
+    {
+      "path": "FBX/Iron Ore Rock.fbx",
+      "sha256": "0f55224e8f6f84e61d52eaf2f96ed9f63a772fcf5c7997928696ac853fbf72a8",
+      "bytes": 95692
+    },
+    {
+      "path": "FBX/Large Cave Boulder.fbx",
+      "sha256": "df0b13e96be94e4a90e2cb19b3b30471466f0d464c6b4a3ab4c3b2554f6f9ee0",
+      "bytes": 78348
+    },
+    {
+      "path": "FBX/Mine Entrance Wooden Portal.fbx",
+      "sha256": "b80caf050715ee09e6dd06c2d06b60b73037785aaf8aaae9a47dcf56f2b6e834",
+      "bytes": 88092
+    },
+    {
+      "path": "FBX/Mine Rail Curve 45 Degrees.fbx",
+      "sha256": "c9e2554a7f1cd1dd45411238a06a253979c3a6aa0a73f86a53e347b27abe2a3c",
+      "bytes": 54732
+    },
+    {
+      "path": "FBX/Mine Warning Sign.fbx",
+      "sha256": "cc9cdd46c82c48ec0def9cfffe445da5f8b600194a0db35489c1167d5bfc5b4d",
+      "bytes": 52204
+    },
+    {
+      "path": "FBX/Minecart.fbx",
+      "sha256": "794df99c48f0538af78e352c2a5dcaa8408820ddabb0cfa0c96a5d6c4786634a",
+      "bytes": 59580
+    },
+    {
+      "path": "FBX/Mining Helmet.fbx",
+      "sha256": "10b23ce76c964c6376b149139e253d5e91bf82fe848675adb3b811b4e4a05ddc",
+      "bytes": 42812
+    },
+    {
+      "path": "FBX/Mining Pickaxe.fbx",
+      "sha256": "005fe6d76dc6cda9224f5536bbf2e338eda064b7d80b58ef821a90ca425fccc6",
+      "bytes": 39628
+    },
+    {
+      "path": "FBX/Mining Shovel.fbx",
+      "sha256": "c708c6bff8321af1ba7499f64663f4fe11f5112a3c15c019bd32fba0bfaf5bf8",
+      "bytes": 36220
+    },
+    {
+      "path": "FBX/Mining Wall Lighting.fbx",
+      "sha256": "52518df8f76bbc4db1c448792d371ec09ee93f8f755160def6065351eda1f42b",
+      "bytes": 35612
+    },
+    {
+      "path": "FBX/Natural Rock Column.fbx",
+      "sha256": "12e4c43435c2f5fed750bd9fd1de111b86d1afad86de8c42388771144a063868",
+      "bytes": 79436
+    },
+    {
+      "path": "FBX/Rockfall Debris Pile.fbx",
+      "sha256": "1575f3e8b865768d932ec16e056b301413250b6840e350fdb5348c8a5c40e205",
+      "bytes": 86972
+    },
+    {
+      "path": "FBX/Rope Coil.fbx",
+      "sha256": "945c25aac784799930790793802f9ea1a92d549469fba8dfda997452725c7e7f",
+      "bytes": 59388
+    },
+    {
+      "path": "FBX/Small Cave Boulder.fbx",
+      "sha256": "64c86a4a56d38e1eb35924427e5675fc86a5e8ec72be922f74077e064d36b461",
+      "bytes": 47052
+    },
+    {
+      "path": "FBX/Spider web.fbx",
+      "sha256": "3c099e6044e0815d8c72b9ebdc3a58a24df10c609ff04a89ea04f52bccb094ff",
+      "bytes": 61084
+    },
+    {
+      "path": "FBX/Stalagmite Cluster.fbx",
+      "sha256": "e53400e74d44d081d4c09cf3f20580abdbf82f20863774a006b7f587b2ea7e8c",
+      "bytes": 79420
+    },
+    {
+      "path": "FBX/Straight Mine Rail.fbx",
+      "sha256": "75cc8e86c4401633bc30ee68973311062b269c5df3e13e25208e6dcef5e0f018",
+      "bytes": 44028
+    },
+    {
+      "path": "FBX/Supply Mining Crate.fbx",
+      "sha256": "f664c0dd039acba0e8018fbe779daa46d78bd988b258892464b894f62dc4a113",
+      "bytes": 57676
+    },
+    {
+      "path": "FBX/Timber Plank Stack.fbx",
+      "sha256": "3a9caefba4fa98c97309c392205de3ed81b044a279d227552f8e84ffede623ac",
+      "bytes": 45164
+    },
+    {
+      "path": "FBX/Timber Support Frame.fbx",
+      "sha256": "0ada8709113e369611b47cc33a0d04bd9d2196ebd06f5aa079114f5754ead2db",
+      "bytes": 41084
+    },
+    {
+      "path": "FBX/Timber Walkway Module.fbx",
+      "sha256": "a60a50651fa81ebf446d226e8e44d62d7c4b20a676ffa0837fab90bee19dced8",
+      "bytes": 44780
+    },
+    {
+      "path": "FBX/Wheelbarrow.fbx",
+      "sha256": "2fad57ed391c1f05198cd6575f0a00aa99e7152534f799d8d795e43633d26878",
+      "bytes": 57596
+    },
+    {
+      "path": "FBX/Wooden Mine Ladder.fbx",
+      "sha256": "72758ac3450bddc45e772fe9459c6bb875863f8537c7f1b6159ebe28355cba93",
+      "bytes": 41580
+    },
+    {
+      "path": "FBX/Wooden Mining Barrel.fbx",
+      "sha256": "d3d663e8f19fb2f9a1db941859c3df84cdef1f96113c5d23d72ae026ed3c4e0c",
+      "bytes": 58748
+    },
+    {
+      "path": "GLB/_LICENSE_NOTICE.txt",
+      "sha256": "302bdd7e041b3166373c87179e3e4f9baa6e37aed4ac33bb3b8edf49e45bdc0a",
+      "bytes": 484
+    },
+    {
+      "path": "GLB/Coal Chunk.glb",
+      "sha256": "b28e614b92dc01eca343aef126ec46f5b5d26ef96db28d22c2e1585c715376b4",
+      "bytes": 34804
+    },
+    {
+      "path": "GLB/Coal Seam Rock.glb",
+      "sha256": "4bdd6f2a27cd4cb6b28123f7c650420d845984756775fb10590f6603ce58288b",
+      "bytes": 81632
+    },
+    {
+      "path": "GLB/Copper Ore Rock.glb",
+      "sha256": "bc6e500de6680d24237f98784759f3a80302e9eb7fd5eacf9e919c1de648154e",
+      "bytes": 161028
+    },
+    {
+      "path": "GLB/Gold Ore Rock.glb",
+      "sha256": "0b8114bb8d4d7dfa18fbd28e4d3c6d82218b738e37c82f59ff7f2e5fa0ea80dd",
+      "bytes": 153268
+    },
+    {
+      "path": "GLB/Hand Lantern.glb",
+      "sha256": "aa7cf4d0c126c98d17a9fc221e70219bc5eec70ffec0cf0c750de669dc55f812",
+      "bytes": 46248
+    },
+    {
+      "path": "GLB/Iron Ore Chunk.glb",
+      "sha256": "600937a45529f5377aa6b1093e79870a1eab47999e502233667b06699f23e8c1",
+      "bytes": 9164
+    },
+    {
+      "path": "GLB/Iron Ore Rock.glb",
+      "sha256": "928964c825aee8acf2e936ed187171602939fd8a2b9c86bc9340f8c92366ddb6",
+      "bytes": 146832
+    },
+    {
+      "path": "GLB/Large Cave Boulder.glb",
+      "sha256": "a961ef9a2fd78034f749030418ca5de7f86f90220f50a9fef7e6442301979abb",
+      "bytes": 108016
+    },
+    {
+      "path": "GLB/Mine Entrance Wooden Portal.glb",
+      "sha256": "78255e35cf661f8dfb521eea2830a0472159042014bcb1482c65717d8044f264",
+      "bytes": 156324
+    },
+    {
+      "path": "GLB/Mine Rail Curve 45 Degrees.glb",
+      "sha256": "e428c58b267645c8a4ceaafd338e97ef6967a5d5b4bbedda050df26be1a004e4",
+      "bytes": 79896
+    },
+    {
+      "path": "GLB/Mine Warning Sign.glb",
+      "sha256": "d4e38439e1cda076fb3a87eb0f6733ff991a5cfa9e815020b91f10f4f98bc064",
+      "bytes": 52080
+    },
+    {
+      "path": "GLB/Minecart.glb",
+      "sha256": "b43a599046cb3b4994e9c714e18de3c881af4d3cc4cba7ab199c02d10aa5ad17",
+      "bytes": 99888
+    },
+    {
+      "path": "GLB/Mining Helmet.glb",
+      "sha256": "a9a0e978dc3b3a956261497f4ce65400460b2df7f1faa2bc484f52c327ed6d73",
+      "bytes": 45312
+    },
+    {
+      "path": "GLB/Mining Pickaxe.glb",
+      "sha256": "da56f87ca90ded6977c295f2417a658958ce019598b801e1940f480598ed0a7c",
+      "bytes": 52904
+    },
+    {
+      "path": "GLB/Mining Shovel.glb",
+      "sha256": "00ed88688f6c14aed57d7f5a9f3459d72b36a99b4912bdadb905b475f1d1fbaf",
+      "bytes": 39052
+    },
+    {
+      "path": "GLB/Mining Wall Lighting.glb",
+      "sha256": "82a0a257bcccf5ed7d0192ca47aaf502d925b7bd4314909d4c8333d22db19e4a",
+      "bytes": 44768
+    },
+    {
+      "path": "GLB/Natural Rock Column.glb",
+      "sha256": "71ca232b27af6adabf173cc25a24ea3661fc20072ef19e023e37a7cc57537cac",
+      "bytes": 112668
+    },
+    {
+      "path": "GLB/Rockfall Debris Pile.glb",
+      "sha256": "5ec3ea2cf2e621bed5e78a935b0013bfbcd730c0019027f2cb590752d8c01094",
+      "bytes": 172112
+    },
+    {
+      "path": "GLB/Rope Coil.glb",
+      "sha256": "07f3ea747d992651af8904bcdbfc9d9e06de81f614d4f196b3a0da80ec940d53",
+      "bytes": 82488
+    },
+    {
+      "path": "GLB/Small Cave Boulder.glb",
+      "sha256": "62a33c0498fd1339bca43d8132410a169c204daebcb6e2dcd832c3884deaac26",
+      "bytes": 54192
+    },
+    {
+      "path": "GLB/Spider web.glb",
+      "sha256": "5f1892ca1b0066106da6db98640754fca28440642ef59cf8ae446cddddeb5005",
+      "bytes": 121384
+    },
+    {
+      "path": "GLB/Stalagmite Cluster.glb",
+      "sha256": "a6878f458c7479b670c21a9b6d7fee9068a8c91db285949deac620274029e947",
+      "bytes": 162612
+    },
+    {
+      "path": "GLB/Straight Mine Rail.glb",
+      "sha256": "c0a6ef6b620a5a09a9397fc4a0b81417a387d54bfc3bd63bbff2e29512efc8f0",
+      "bytes": 71384
+    },
+    {
+      "path": "GLB/Supply Mining Crate.glb",
+      "sha256": "5ae96b5eb30ea5995cbb747a9551c4e5b91bc828fd07b5d0727ebb68546d8f03",
+      "bytes": 74132
+    },
+    {
+      "path": "GLB/Timber Plank Stack.glb",
+      "sha256": "157af320b5b79cd86068e40b8913408d5e2127f4f5da27c893809fec2456054b",
+      "bytes": 58196
+    },
+    {
+      "path": "GLB/Timber Support Frame.glb",
+      "sha256": "c1373a259d621d4ea08ce376b34ee4846216ea768178314dec92ac61f3c04095",
+      "bytes": 74372
+    },
+    {
+      "path": "GLB/Timber Walkway Module.glb",
+      "sha256": "126c9a270864b46ce5aef9c8559ca02be0cfd44821e229cbc6aaea3319fe3005",
+      "bytes": 77784
+    },
+    {
+      "path": "GLB/Wheelbarrow.glb",
+      "sha256": "690d137ee6b0c0619e65ab136b77c79f27c7ca5b32a67428d9a4135425560edf",
+      "bytes": 93496
+    },
+    {
+      "path": "GLB/Wooden Mine Ladder.glb",
+      "sha256": "56a8ae49abb96a53a09e22d7c30e023bf5e4a7485070e5e7b01265f80911e068",
+      "bytes": 44564
+    },
+    {
+      "path": "GLB/Wooden Mining Barrel.glb",
+      "sha256": "7b98ad267cbd190a313189b32b8fe697b2af386376be2ceb7adc389063c44595",
+      "bytes": 73120
+    },
+    {
+      "path": "LICENSE.txt",
+      "sha256": "e358344908f7b801c39d7d1d401b35202cdcd1c421d4de90e45c209c05a2bea4",
+      "bytes": 2805
+    },
+    {
+      "path": "OBJ/_LICENSE_NOTICE.txt",
+      "sha256": "302bdd7e041b3166373c87179e3e4f9baa6e37aed4ac33bb3b8edf49e45bdc0a",
+      "bytes": 484
+    },
+    {
+      "path": "OBJ/Coal Chunk.mtl",
+      "sha256": "a663a1d4893c7052d749b788cbb10a94e5d21984bf58a70c6028464821ab79e4",
+      "bytes": 1485
+    },
+    {
+      "path": "OBJ/Coal Chunk.obj",
+      "sha256": "b9485fa59d9272f849b3bafc5ae30131593ea98f9d64eb03f091ae20dce55247",
+      "bytes": 26664
+    },
+    {
+      "path": "OBJ/Coal Seam Rock.mtl",
+      "sha256": "5ae73904231d61cc2d4f1ede8d6a5d38e5a348cd8988063119c1050ad604ff8a",
+      "bytes": 2321
+    },
+    {
+      "path": "OBJ/Coal Seam Rock.obj",
+      "sha256": "65372f1923bf64468cd18fec74ac9006053d3781577eebe0f78fdc5a6aa81352",
+      "bytes": 73198
+    },
+    {
+      "path": "OBJ/Copper Ore Rock.mtl",
+      "sha256": "fae93a35dd713c80116afb4d0d074b29e2fd7661b1110010a605623fae18d83f",
+      "bytes": 1333
+    },
+    {
+      "path": "OBJ/Copper Ore Rock.obj",
+      "sha256": "6040821e29bd8708c0671840270d2f4a8b6ed3a276976c1e51db12359322cada",
+      "bytes": 142720
+    },
+    {
+      "path": "OBJ/Gold Ore Rock.mtl",
+      "sha256": "fde4812bc16bf5ac6fa1537b3bd6148a6875f4a3478b098e58ea2f7269b4cfa7",
+      "bytes": 1322
+    },
+    {
+      "path": "OBJ/Gold Ore Rock.obj",
+      "sha256": "8eb248ef93108ecb3a53c71e87480117390f344838c0970c73fb8f80c6aef3af",
+      "bytes": 136607
+    },
+    {
+      "path": "OBJ/Hand Lantern.mtl",
+      "sha256": "dd81cc0b586899d9155cd4e3e63281e17d48f30f03067b571540c515c6b84d99",
+      "bytes": 3107
+    },
+    {
+      "path": "OBJ/Hand Lantern.obj",
+      "sha256": "6bf7033cce41902ef608fefb6f2ee79a7ad784e068233850d0529725b49afcf3",
+      "bytes": 36823
+    },
+    {
+      "path": "OBJ/Iron Ore Chunk.mtl",
+      "sha256": "455035d2dbb2af86ac64d101d2a01e94e80aa73d9063500a2ef1b11ae8dfe03e",
+      "bytes": 1301
+    },
+    {
+      "path": "OBJ/Iron Ore Chunk.obj",
+      "sha256": "7712f578e393fc7d84a49f2c35ee0366285d685f77c9e60ccf42c25da80fc0f1",
+      "bytes": 3076
+    },
+    {
+      "path": "OBJ/Iron Ore Rock.mtl",
+      "sha256": "a8625003f3e7a611a6c810a6b25abc85f9f9c1df119da52192d32ccffad9e776",
+      "bytes": 2132
+    },
+    {
+      "path": "OBJ/Iron Ore Rock.obj",
+      "sha256": "fd769cae10f1da73150da105b6617a9cbf7bc5c0de41a3758b0a81cbf5a85361",
+      "bytes": 125930
+    },
+    {
+      "path": "OBJ/Large Cave Boulder.mtl",
+      "sha256": "9c22f356ac63ddba86a30af1bee49e418152a7a1494f207cb04e62801efb154f",
+      "bytes": 1540
+    },
+    {
+      "path": "OBJ/Large Cave Boulder.obj",
+      "sha256": "3296eae24fedf06df062e587326bcd42587bd9587304b88aa89d50d872abb1d4",
+      "bytes": 109659
+    },
+    {
+      "path": "OBJ/Mine Entrance Wooden Portal.mtl",
+      "sha256": "3378b1e45a5cb6adee9a7a02a91476b38b26a8642182fae216e87d97f605868d",
+      "bytes": 4401
+    },
+    {
+      "path": "OBJ/Mine Entrance Wooden Portal.obj",
+      "sha256": "14dbe7cef966c3bcaacb4c41137658284ea5215bee5de586109054bf393c88aa",
+      "bytes": 131144
+    },
+    {
+      "path": "OBJ/Mine Rail Curve 45 Degrees.mtl",
+      "sha256": "b4eaba67c652be24324c0f50ad120fde2290653c53e3ce70a22b8420e73bcb34",
+      "bytes": 1924
+    },
+    {
+      "path": "OBJ/Mine Rail Curve 45 Degrees.obj",
+      "sha256": "5b81951fd175abd6fafcd92417a40cb070e30dc74cac30c304c70ce9d7124f98",
+      "bytes": 70296
+    },
+    {
+      "path": "OBJ/Mine Warning Sign.mtl",
+      "sha256": "f20c977c0bd791fe2fe4d5fd334707406f6050ac973684df90417190025fd0d0",
+      "bytes": 3527
+    },
+    {
+      "path": "OBJ/Mine Warning Sign.obj",
+      "sha256": "9fbb86c452df025d28a26921cc381813333bb78730b13ecc844a5a4fa0e3520f",
+      "bytes": 47423
+    },
+    {
+      "path": "OBJ/Minecart.mtl",
+      "sha256": "9e870fad4be8609f0854e6583b7a389d4a7332945a8d11db11bfaee9224528bd",
+      "bytes": 1110
+    },
+    {
+      "path": "OBJ/Minecart.obj",
+      "sha256": "049ced0e1d0c64b08c654f5c055f825df3d543815c8f050aa16e1862f7f9b19f",
+      "bytes": 93388
+    },
+    {
+      "path": "OBJ/Mining Helmet.mtl",
+      "sha256": "bd2084dd172cb21646bf22ccb1c7c8a2d05d16017737456e314483f82b889baa",
+      "bytes": 3108
+    },
+    {
+      "path": "OBJ/Mining Helmet.obj",
+      "sha256": "975cfe992af4653ac21bb87b556cd77122e7b947dfe194b9d0d95ada90bfa46a",
+      "bytes": 36706
+    },
+    {
+      "path": "OBJ/Mining Pickaxe.mtl",
+      "sha256": "27e5445b33d356198a112a303c0f49c180b20f700b107e54529140fec1530dbf",
+      "bytes": 1710
+    },
+    {
+      "path": "OBJ/Mining Pickaxe.obj",
+      "sha256": "ca565fddb63b35478f7d201d2c199c44afa2ecd042310bc610b48c5852b3c7cb",
+      "bytes": 48313
+    },
+    {
+      "path": "OBJ/Mining Shovel.mtl",
+      "sha256": "6c9335714e5eb7691e5c18c31e65bd686293cffef59b30e0fc18d0347c282881",
+      "bytes": 2119
+    },
+    {
+      "path": "OBJ/Mining Shovel.obj",
+      "sha256": "4ae6a7f8c0c6d0a380a818cd537fb143de2ac024c939b2067677a0b1b3a7ffee",
+      "bytes": 32404
+    },
+    {
+      "path": "OBJ/Mining Wall Lighting.mtl",
+      "sha256": "64ae5d6c05d1604e3430159b12355eaa38648a91b8aaa28e8e195c23c16d2d07",
+      "bytes": 1328
+    },
+    {
+      "path": "OBJ/Mining Wall Lighting.obj",
+      "sha256": "14601968e487bd959d5e726fe2927e6e301ec9d3a5dbb029a2a41411ab4590fe",
+      "bytes": 40840
+    },
+    {
+      "path": "OBJ/Natural Rock Column.mtl",
+      "sha256": "a9aeb4ca003097f506764863719f8090b9669a512b85f8afc475f7192936fbba",
+      "bytes": 4393
+    },
+    {
+      "path": "OBJ/Natural Rock Column.obj",
+      "sha256": "0014f8c430ac2f98e507ef5a7c65cbdb530ffa14110dcf41e08bd90af862dbf6",
+      "bytes": 101655
+    },
+    {
+      "path": "OBJ/Rockfall Debris Pile.mtl",
+      "sha256": "b702cb590372762496c9e8a109cfc695a522ec394d8c70750339bc0917d65fb7",
+      "bytes": 1542
+    },
+    {
+      "path": "OBJ/Rockfall Debris Pile.obj",
+      "sha256": "b51595013b4f6ec8726d0a300f32075fbba5981384926f814151ed41d689c51b",
+      "bytes": 160297
+    },
+    {
+      "path": "OBJ/Rope Coil.mtl",
+      "sha256": "a9195334c81af41b6b64abbdea5c1bc09f020d49e4a78980cdaa24b462e3254b",
+      "bytes": 894
+    },
+    {
+      "path": "OBJ/Rope Coil.obj",
+      "sha256": "46de442cf7a0466a0b2993b9bc1514fe8c7c9486334934eb0514d2813c86de88",
+      "bytes": 80744
+    },
+    {
+      "path": "OBJ/Small Cave Boulder.mtl",
+      "sha256": "c43f121e9bc5853baa1464a2b38006f8ebae72724829ccf9a181e1f81e7b388c",
+      "bytes": 1540
+    },
+    {
+      "path": "OBJ/Small Cave Boulder.obj",
+      "sha256": "e2b19d85038512f8cf3fc2bfdc66486025f0cab2a0229dd044e44e644fe96ca5",
+      "bytes": 49740
+    },
+    {
+      "path": "OBJ/Spider web.mtl",
+      "sha256": "50b7fb718ad11b188f371b89f700b486d635a069f24e950d481449d14f7ccac5",
+      "bytes": 486
+    },
+    {
+      "path": "OBJ/Spider web.obj",
+      "sha256": "7c49556a2713ee5b062452e96fa724456f467fbbc0ac7ef33f5ba33c82038e83",
+      "bytes": 112281
+    },
+    {
+      "path": "OBJ/Stalagmite Cluster.mtl",
+      "sha256": "8da7be92bcc95034b430531d86215da31723f53adc4f5e8896e8fc4c79aa3030",
+      "bytes": 1131
+    },
+    {
+      "path": "OBJ/Stalagmite Cluster.obj",
+      "sha256": "3b75c42d94391c5d8b9dfdc5f7ed591ae7408570da5f2a324b71ba0b1cc13be8",
+      "bytes": 146556
+    },
+    {
+      "path": "OBJ/Straight Mine Rail.mtl",
+      "sha256": "09ce782ac1633f5a58b20ba088f86b7eab3f860cecb4ab4f583b00652ce6db4e",
+      "bytes": 1916
+    },
+    {
+      "path": "OBJ/Straight Mine Rail.obj",
+      "sha256": "b2558bfc941d8de3ac687a07e4a3351b9e81d7dfff3ac2d7197ab7c291248b3c",
+      "bytes": 55065
+    },
+    {
+      "path": "OBJ/Supply Mining Crate.mtl",
+      "sha256": "5e2fbe0f07223dc8499d49f036de74e2a7216e4921083c8e124820f67168bfcd",
+      "bytes": 3203
+    },
+    {
+      "path": "OBJ/Supply Mining Crate.obj",
+      "sha256": "c854a3d47db70bd001bd8aab20be8726bcca1ca50b1ccaa9271b79d79b8b11c3",
+      "bytes": 55778
+    },
+    {
+      "path": "OBJ/Timber Plank Stack.mtl",
+      "sha256": "6315fa2d2fff811253aa07ee018a9f5f393db49bc8957a7d021019e71b75cf48",
+      "bytes": 3120
+    },
+    {
+      "path": "OBJ/Timber Plank Stack.obj",
+      "sha256": "76065e6df94111189a2c97be8501adcc78e8f3d42dc77259f82e011ab8706af6",
+      "bytes": 41009
+    },
+    {
+      "path": "OBJ/Timber Support Frame.mtl",
+      "sha256": "0cea2892d158ba3a4dbc8e851c43677d01eb6f3a934aa41e4488527d52eb67a1",
+      "bytes": 1311
+    },
+    {
+      "path": "OBJ/Timber Support Frame.obj",
+      "sha256": "5566e3353794c611b9b5319f843e1cabf2cd6e676a8f5fb57ab11a2fe459067b",
+      "bytes": 57385
+    },
+    {
+      "path": "OBJ/Timber Walkway Module.mtl",
+      "sha256": "f090df7cb5c1f82e9505119c2327226bcfa09ddfe54c30c05e5e24f730562585",
+      "bytes": 1312
+    },
+    {
+      "path": "OBJ/Timber Walkway Module.obj",
+      "sha256": "824ab83a4f35fdfbf114f8bd8248d1e15c5ede7390b3c5cdee52a3e8aa5347e2",
+      "bytes": 68419
+    },
+    {
+      "path": "OBJ/Wheelbarrow.mtl",
+      "sha256": "cc3192db2cfe8892bbb1032279acf3896f4b12c60c9f47efe7bfc0c311e66b09",
+      "bytes": 2129
+    },
+    {
+      "path": "OBJ/Wheelbarrow.obj",
+      "sha256": "8f336c9fcb72be5311b4e96ff0f2c4f2b7997321d17670d1fa779aaf6c8119ba",
+      "bytes": 83933
+    },
+    {
+      "path": "OBJ/Wooden Mine Ladder.mtl",
+      "sha256": "1d7d6cad13f30392fbecea27c8a5d2661fff75e90c6a68f900bd9c94d062cff7",
+      "bytes": 3113
+    },
+    {
+      "path": "OBJ/Wooden Mine Ladder.obj",
+      "sha256": "e23eea61740d872801cecb25b7605239aed4c1ea0b70044aa1783334d0b71d11",
+      "bytes": 34196
+    },
+    {
+      "path": "OBJ/Wooden Mining Barrel.mtl",
+      "sha256": "755dff9f8ba042972428203325fa082a00952ad7502df5c4d51098154ae428fa",
+      "bytes": 3204
+    },
+    {
+      "path": "OBJ/Wooden Mining Barrel.obj",
+      "sha256": "4d9b9dfc7436c224b62b609e07d4284b5e8a87c0cdc5af4a14b1a280ab8a3801",
+      "bytes": 70414
+    },
+    {
+      "path": "README.txt",
+      "sha256": "66605cffbf479289302ab3d23ea89719e0b666eff34baec0f46f069d3831c451",
+      "bytes": 1043
+    },
+    {
+      "path": "USAGE_TERMS.json",
+      "sha256": "69f6be9dcad4c077d4e792e929ff5416708849ced9d4e1fcd02d7de88227c23f",
+      "bytes": 843
+    }
+  ],
+  "license_file": "LICENSE.txt",
+  "usage_terms_file": "USAGE_TERMS.json",
+  "ai_notice_file": "AI_NOTICE.txt",
+  "license_summary": "Commercial end-product use permitted. Standalone resale, redistribution, re-upload, mirroring and sublicensing prohibited, including via AI, agents or automated intermediaries.",
+  "standalone_resale_allowed": false,
+  "standalone_redistribution_allowed": false,
+  "redistribution_via_ai_or_intermediary_allowed": false
+}

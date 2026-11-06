@@ -1,0 +1,45 @@
+# Copyright (c) 2026 dglopez. All rights reserved.
+# Licensed for use in end products. Standalone resale/redistribution prohibited.
+# AI, agents or automated intermediaries do not grant additional redistribution rights.
+# Blender 4.0.2 MTL File: 'Minecart.blend'
+# www.blender.org
+
+newmtl Minecart_Brown_Cast_Iron
+Ns 129.600006
+Ka 1.000000 1.000000 1.000000
+Kd 0.115000 0.105000 0.095000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3
+
+newmtl Minecart_Wheel_Steel
+Ns 260.100006
+Ka 1.000000 1.000000 1.000000
+Kd 0.135000 0.145000 0.152000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3
+
+newmtl Minecart_Worn_Iron_Edges
+Ns 291.599945
+Ka 1.000000 1.000000 1.000000
+Kd 0.190000 0.181000 0.166000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3
+
+newmtl Tool_Burnished_Steel
+Ns 409.599976
+Ka 1.000000 1.000000 1.000000
+Kd 0.260000 0.280000 0.300000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3

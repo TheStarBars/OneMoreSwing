@@ -1,0 +1,15 @@
+# Copyright (c) 2026 dglopez. All rights reserved.
+# Licensed for use in end products. Standalone resale/redistribution prohibited.
+# AI, agents or automated intermediaries do not grant additional redistribution rights.
+# Blender 4.0.2 MTL File: 'Spider web.blend'
+# www.blender.org
+
+newmtl Web_silk_ivory
+Ns 102.399994
+Ka 1.000000 1.000000 1.000000
+Kd 0.780000 0.750000 0.680000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2

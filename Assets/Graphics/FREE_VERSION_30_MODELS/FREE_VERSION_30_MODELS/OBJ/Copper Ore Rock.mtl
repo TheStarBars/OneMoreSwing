@@ -1,0 +1,55 @@
+# Copyright (c) 2026 dglopez. All rights reserved.
+# Licensed for use in end products. Standalone resale/redistribution prohibited.
+# AI, agents or automated intermediaries do not grant additional redistribution rights.
+# Blender 4.0.2 MTL File: 'Copper Ore Rock.blend'
+# www.blender.org
+
+newmtl Cave_Boulder_Cool_Mineral
+Ns 19.599997
+Ka 1.000000 1.000000 1.000000
+Kd 0.042300 0.045900 0.047250
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Cave_Boulder_Ochre_Mineral
+Ns 16.900000
+Ka 1.000000 1.000000 1.000000
+Kd 0.054900 0.044550 0.031950
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Cave_Boulder_Slate_Neutral
+Ns 12.100003
+Ka 1.000000 1.000000 1.000000
+Kd 0.044100 0.043650 0.041850
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Cave_Boulder_Slate_Warm
+Ns 19.599997
+Ka 1.000000 1.000000 1.000000
+Kd 0.048600 0.043650 0.036450
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Copper_Ore_Native_Copper
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.720000 0.205000 0.045000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3

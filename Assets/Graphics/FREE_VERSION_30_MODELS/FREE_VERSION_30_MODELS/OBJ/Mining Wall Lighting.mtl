@@ -1,0 +1,55 @@
+# Copyright (c) 2026 dglopez. All rights reserved.
+# Licensed for use in end products. Standalone resale/redistribution prohibited.
+# AI, agents or automated intermediaries do not grant additional redistribution rights.
+# Blender 4.0.2 MTL File: 'Mining Wall Lighting.blend'
+# www.blender.org
+
+newmtl Mine_Lamp_Golden_Edge
+Ns 336.400055
+Ka 1.000000 1.000000 1.000000
+Kd 0.970000 0.560000 0.012000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Mine_Lamp_Ochre_Enamel
+Ns 324.899994
+Ka 1.000000 1.000000 1.000000
+Kd 0.830000 0.410000 0.008000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Mine_Lamp_Warm_Opal_Glass
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.920000 0.790000 0.480000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Tool_Burnished_Steel
+Ns 409.599976
+Ka 1.000000 1.000000 1.000000
+Kd 0.260000 0.280000 0.300000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3
+
+newmtl Tool_Dark_Forged_Steel
+Ns 280.899994
+Ka 1.000000 1.000000 1.000000
+Kd 0.160000 0.175000 0.190000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3

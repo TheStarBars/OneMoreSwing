@@ -1,0 +1,35 @@
+# Copyright (c) 2026 dglopez. All rights reserved.
+# Licensed for use in end products. Standalone resale/redistribution prohibited.
+# AI, agents or automated intermediaries do not grant additional redistribution rights.
+# Blender 4.0.2 MTL File: 'Rope Coil.blend'
+# www.blender.org
+
+newmtl Hemp_Rope_Dark_Strand
+Ns 32.400002
+Ka 1.000000 1.000000 1.000000
+Kd 0.108000 0.041000 0.008000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Hemp_Rope_Honey
+Ns 32.400002
+Ka 1.000000 1.000000 1.000000
+Kd 0.160000 0.075000 0.020000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Hemp_Rope_Light_Strand
+Ns 32.400002
+Ka 1.000000 1.000000 1.000000
+Kd 0.235000 0.120000 0.042000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2

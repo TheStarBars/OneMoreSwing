@@ -1,0 +1,75 @@
+# Copyright (c) 2026 dglopez. All rights reserved.
+# Licensed for use in end products. Standalone resale/redistribution prohibited.
+# AI, agents or automated intermediaries do not grant additional redistribution rights.
+# Blender 4.0.2 MTL File: 'Mining Pickaxe.blend'
+# www.blender.org
+
+newmtl Pickaxe_Ash_Amber
+Ns 168.100021
+Ka 1.000000 1.000000 1.000000
+Kd 0.340000 0.145000 0.044000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Pickaxe_Ash_Light
+Ns 152.099991
+Ka 1.000000 1.000000 1.000000
+Kd 0.395000 0.181000 0.059000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Pickaxe_Ash_Shade
+Ns 122.500015
+Ka 1.000000 1.000000 1.000000
+Kd 0.285000 0.112000 0.031000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Pickaxe_End_Grain
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.305000 0.127000 0.036000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 2
+
+newmtl Pickaxe_Forged_Steel
+Ns 384.399994
+Ka 1.000000 1.000000 1.000000
+Kd 0.480000 0.500000 0.520000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3
+
+newmtl Pickaxe_Steel_Bevel
+Ns 490.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.560000 0.580000 0.600000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3
+
+newmtl Pickaxe_Steel_Soft_Facet
+Ns 348.100067
+Ka 1.000000 1.000000 1.000000
+Kd 0.430000 0.450000 0.470000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.460000
+d 1.000000
+illum 3

@@ -1,0 +1,35 @@
+FREE ASSET LIST
+===============
+
+Total assets: 30
+
+01. Mine Entrance Wooden Portal
+02. Timber Support Frame
+03. Straight Mine Rail
+04. Mine Rail Curve 45 Degrees
+05. Minecart
+06. Wooden Mine Ladder
+07. Timber Walkway Module
+08. Mine Warning Sign
+09. Mining Wall Lighting
+10. Mining Pickaxe
+11. Mining Shovel
+12. Hand Lantern
+13. Mining Helmet
+14. Wheelbarrow
+15. Iron Ore Rock
+16. Iron Ore Chunk
+17. Coal Seam Rock
+18. Coal Chunk
+19. Gold Ore Rock
+20. Copper Ore Rock
+21. Supply Mining Crate
+22. Wooden Mining Barrel
+23. Rope Coil
+24. Timber Plank Stack
+25. Small Cave Boulder
+26. Large Cave Boulder
+27. Stalagmite Cluster
+28. Natural Rock Column
+29. Rockfall Debris Pile
+30. Spider web
